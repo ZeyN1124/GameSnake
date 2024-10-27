@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-Snake2.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\Snake2Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\PanwBlu.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Snake.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Snake2.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Snake2GameModeBase.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\PanwBlu.gen.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Snake.gen.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Snake2.init.gen.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Snake2GameModeBase.gen.cpp.obj"
+"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Default.rc2.res"
+/OUT:"C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\UE4Editor-Snake2.lib"

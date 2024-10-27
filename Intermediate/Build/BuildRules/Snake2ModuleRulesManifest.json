@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Unreal prot\\Snake2\\Source\\Snake2\\Snake2.Build.cs",
+		"C:\\Unreal prot\\Snake2\\Source\\Snake2.Target.cs",
+		"C:\\Unreal prot\\Snake2\\Source\\Snake2Editor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

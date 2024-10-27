@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\Snake2.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{51002C3B-2C30-42AC-8E01-43D152226C26}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\Snake2.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\Snake2Editor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{DF45A24B-9F0D-48FB-B74F-F85B68418856}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\Snake2">
+      <UniqueIdentifier>{E5D6B8A4-0AEB-4CB6-A7BC-2660F55EA04E}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\Snake2\PanwBlu.cpp">
+      <Filter>Source\Snake2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Snake2\PanwBlu.h">
+      <Filter>Source\Snake2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Snake2\Snake.cpp">
+      <Filter>Source\Snake2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Snake2\Snake.h">
+      <Filter>Source\Snake2</Filter>
+    </ClInclude>
+    <None Include="..\..\Source\Snake2\Snake2.Build.cs">
+      <Filter>Source\Snake2</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\Snake2\Snake2.cpp">
+      <Filter>Source\Snake2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Snake2\Snake2.h">
+      <Filter>Source\Snake2</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\Snake2\Snake2GameModeBase.cpp">
+      <Filter>Source\Snake2</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\Snake2\Snake2GameModeBase.h">
+      <Filter>Source\Snake2</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

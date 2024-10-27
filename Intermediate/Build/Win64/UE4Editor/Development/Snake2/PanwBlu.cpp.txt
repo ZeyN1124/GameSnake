@@ -1,0 +1,7 @@
+C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Definitions.Snake2.h
+C:\Unreal prot\Snake2\Source\Snake2\PanwBlu.h
+C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Inc\Snake2\PanwBlu.generated.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine/Classes/Camera/CameraComponent.h
+C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\CameraComponent.generated.h
+C:\Unreal prot\Snake2\Source\Snake2\Snake.h
+C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Inc\Snake2\Snake.generated.h

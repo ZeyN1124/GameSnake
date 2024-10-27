@@ -1,0 +1,3 @@
+C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Development\Snake2\Definitions.Snake2.h
+C:\Unreal prot\Snake2\Source\Snake2\Snake.h
+C:\Unreal prot\Snake2\Intermediate\Build\Win64\UE4Editor\Inc\Snake2\Snake.generated.h
